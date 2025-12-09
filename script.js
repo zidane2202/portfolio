@@ -11,6 +11,6 @@ function animateSkills() {
         }
     });
 }
-// --- IGNORE ---
+
 window.addEventListener('scroll', animateSkills);
 window.addEventListener('load', animateSkills);
